@@ -12,7 +12,7 @@ graph TD
     D2 --> E
     D3 --> E
     
-    E --> F["Risk Engine<br/>0 - 100"]
+    E --> F["Risk Engine"]
     F --> G["Decision Engine"]
     
     G --> H1["Isolate<br/>Endpoint<br/>Mock"]
